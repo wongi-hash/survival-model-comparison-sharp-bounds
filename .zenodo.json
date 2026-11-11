@@ -1,0 +1,21 @@
+{
+  "upload_type": "software",
+  "title": "Code for: Comparing survival prediction models with sharp bounds on Brier-risk differences before local outcomes are available",
+  "version": "1.0.0",
+  "description": "Code and aggregate results for the simulation study and the three public-data applications (Rotterdam to German Breast Cancer Study Group; Rotterdam earlier to later patients; National Wilms Tumor Study 3 to 4) comparing two fixed survival predictors before target outcomes are available. The code computes sharp bounds for the candidate-minus-reference Brier-risk difference under bounded conditional log-odds shifts, the corresponding separate-risk subtraction intervals, censoring-adjusted estimates, and simultaneous bootstrap confidence envelopes. Patient-level data are not included; the datasets are exported from the R package survival.",
+  "creators": [
+    {"name": "Choi, Won Gi", "affiliation": "Department of Mathematics and Statistics, Chonnam National University, Republic of Korea"},
+    {"name": "Kim, Sun-Ho", "affiliation": "Graduate School of Data Science, Chonnam National University, Republic of Korea"},
+    {"name": "Kim, Min Soo", "affiliation": "Department of Statistics, Chonnam National University, Republic of Korea"}
+  ],
+  "license": "MIT",
+  "keywords": [
+    "survival analysis",
+    "clinical prediction model",
+    "model comparison",
+    "Brier score",
+    "partial identification",
+    "sensitivity analysis"
+  ],
+  "access_right": "open"
+}

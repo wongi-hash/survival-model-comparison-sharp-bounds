@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Comparing survival prediction models with sharp bounds on Brier-risk differences before local outcomes are available"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Choi
+    given-names: Won Gi
+    affiliation: "Department of Mathematics and Statistics, Chonnam National University, Republic of Korea"
+  - family-names: Kim
+    given-names: Sun-Ho
+    affiliation: "Graduate School of Data Science, Chonnam National University, Republic of Korea"
+  - family-names: Kim
+    given-names: Min Soo
+    affiliation: "Department of Statistics, Chonnam National University, Republic of Korea"
+keywords:
+  - survival analysis
+  - clinical prediction model
+  - model comparison
+  - Brier score
+  - partial identification
+  - sensitivity analysis

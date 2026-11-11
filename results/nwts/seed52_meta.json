@@ -1,0 +1,17 @@
+{
+  "dataset": "NWTS3-NWTS4",
+  "contrast": "central_histology",
+  "seed": 52,
+  "G": {
+    "censoring_events": 527,
+    "G_tau_min": 0.9425968643107827,
+    "G_tau_median": 0.9459906708438292,
+    "G_floor": 0.02,
+    "floor_tau_n": 0,
+    "floor_left_n": 0,
+    "floor_used_n": 0,
+    "H": "Z=(q0,q1); no additional censoring covariates"
+  },
+  "bootstrap_valid": 999,
+  "bootstrap_failures": []
+}

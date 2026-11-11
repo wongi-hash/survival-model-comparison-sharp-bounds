@@ -1,0 +1,6 @@
+work/
+data/*.csv
+data/R_SESSION_INFO.txt
+data/SURVIVAL_CITATION.txt
+__pycache__/
+*.pyc

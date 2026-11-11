@@ -1,0 +1,17 @@
+{
+  "dataset": "Rotterdam-temporal",
+  "contrast": "candidate_vs_reference",
+  "seed": 52,
+  "G": {
+    "censoring_events": 100,
+    "G_tau_min": 0.9923507070708641,
+    "G_tau_median": 0.9927766904105285,
+    "G_floor": 0.02,
+    "floor_tau_n": 0,
+    "floor_left_n": 0,
+    "floor_used_n": 0,
+    "H": "Z=(q0,q1); no additional censoring covariates"
+  },
+  "bootstrap_valid": 999,
+  "bootstrap_failures": []
+}

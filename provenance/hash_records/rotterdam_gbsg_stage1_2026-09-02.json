@@ -1,0 +1,59 @@
+{
+  "description": "Hashes recorded on 2 September 2026 when the Rotterdam -> GBSG stage-1 inputs used for the reported results were created (fields extracted from the original stage-1 manifest; local file paths removed). The calibration and target files are the stage-1 inputs; target files contain predictions only.",
+  "created_utc": "2026-09-02T05:21:53.630989+00:00",
+  "python": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+  "raw_sha256": {
+    "rotterdam.csv": "62703670d3be5d49c5476fb7131b020bdca9f1c25bb4522fd6abe8f9dab61f1b",
+    "gbsg.csv": "9fa0fef0575d04d3273869be28405307f1b02993751498e8a0c844541cccd5d9"
+  },
+  "stage1_outputs": [
+    {
+      "file": "analysis_inputs/seed42/calibration_GBSG.csv",
+      "sha256": "9882bde96a9b139aa3321af457fc9206f66b1a23b156703c1b7ccde3eabdbaca"
+    },
+    {
+      "file": "analysis_inputs/seed42/target_GBSG.csv",
+      "sha256": "8985ee806c7aa121458a4742567a0daf6b52ead01e6c47bd6d21f1780c538178"
+    },
+    {
+      "file": "model_locks/seed42.json",
+      "sha256": "a62fa51b972f39ef2cd10b9e1ef2724729d5ef13ceb00c0a77629d10ed1df21f"
+    },
+    {
+      "file": "analysis_inputs/seed52/calibration_GBSG.csv",
+      "sha256": "37dc8b84efa7fffcc01c591728abbaa0e08ccbbcbcdb798544a68fcdca9b5f5a"
+    },
+    {
+      "file": "analysis_inputs/seed52/target_GBSG.csv",
+      "sha256": "205d15f0e11dfab65ac5d973b626da7515002855d6b825ec2d7be0e63a26e24b"
+    },
+    {
+      "file": "model_locks/seed52.json",
+      "sha256": "f3037eda797f42dd2298c27ced6ea5dbc6fbe7679093c410621f5987ce228e52"
+    },
+    {
+      "file": "analysis_inputs/seed62/calibration_GBSG.csv",
+      "sha256": "cac9f6de80d01e3d0b5d0a162176c1096928e22ae3481d6540d90ff2bfa90b67"
+    },
+    {
+      "file": "analysis_inputs/seed62/target_GBSG.csv",
+      "sha256": "b653fbe72246ee2a80cb8a090cc8c7e124853c9f169a30d27ad6f6d4dae65230"
+    },
+    {
+      "file": "model_locks/seed62.json",
+      "sha256": "4fad91bab7b723d1b6ea7265880ec83f3b1d48c5e77bcf8a1adfe366618d0ace"
+    },
+    {
+      "file": "analysis_inputs/seed72/calibration_GBSG.csv",
+      "sha256": "b3240e1cdea47790c90c9873b063f5845490713752cedb7409bd930b378fbd1b"
+    },
+    {
+      "file": "analysis_inputs/seed72/target_GBSG.csv",
+      "sha256": "94dda5a2187cd6de67d9f3a9cc17497bc039ae7ded58bd48b5e6d1b337d794ec"
+    },
+    {
+      "file": "model_locks/seed72.json",
+      "sha256": "ae8ad47378e9d630749f48b9e9e2963e54134eb12173150aed6ee947dd4b1fd5"
+    }
+  ]
+}

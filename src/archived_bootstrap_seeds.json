@@ -1,0 +1,9 @@
+{
+  "description": "Integer bootstrap seeds used for the Rotterdam -> GBSG fixed-configuration analyses (B = 999). analyze() uses these seeds when no seed is passed, so that reruns reproduce the reported bootstrap draws exactly. Keys are dataset|contrast|configuration|B.",
+  "seeds": {
+    "Rotterdam-GBSG|supporting_clinical_candidate|42|999": 3577638262,
+    "Rotterdam-GBSG|supporting_clinical_candidate|52|999": 189564445,
+    "Rotterdam-GBSG|supporting_clinical_candidate|62|999": 870478261,
+    "Rotterdam-GBSG|supporting_clinical_candidate|72|999": 1846325521
+  }
+}
